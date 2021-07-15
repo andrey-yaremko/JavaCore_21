@@ -1,0 +1,6 @@
+nameDroid - name anotationheightDroid - height anotationimpactlevelDroid - impactlevel anotationname
+Droid - name anotation
+height
+Droid - height anotation
+impactlevel
+Droid - impactlevel anotation
